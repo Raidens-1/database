@@ -2190,6 +2190,28 @@
         "text_left": "",
         "text_welcome": ""
       }
+    },
+    "6283873597154@s.whatsapp.net": {
+      "mute": false,
+      "wlcm": false,
+      "antibot": false,
+      "antibot2": false,
+      "antitoxic": false,
+      "antilink": false,
+      "antilinkyt": false,
+      "antilinktt": false,
+      "antivirtex": true,
+      "antipanel": false,
+      "antiwame": false,
+      "antilinkv2": false,
+      "antilinkgc": false,
+      "antilinkgc2": false,
+      "antilinkch": false,
+      "notification": {
+        "status": false,
+        "text_left": "",
+        "text_welcome": ""
+      }
     }
   },
   "game": {
@@ -2214,6 +2236,9 @@
       "autobackup": false
     }
   },
+  "setting": {},
+  "others": {},
+  "sticker": {},
   "rpg": {
     "6282179287991@s.whatsapp.net": {
       "kapal": false,
@@ -5584,8 +5609,5 @@
       "ojekk": 0,
       "lastmisi": 0
     }
-  },
-  "sticker": {},
-  "setting": {},
-  "others": {}
+  }
 }
