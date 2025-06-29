@@ -4046,7 +4046,7 @@
         "setclose": false,
         "setopen": false,
         "setleft": false,
-        "setwelcome": false,
+        "setwelcome": "s",
         "liststore": {}
       },
       "6281285728998@s.whatsapp.net": {
